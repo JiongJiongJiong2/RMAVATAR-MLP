@@ -2,6 +2,8 @@
 
 This repository is a modified version of [RMAvatar](https://github.com/RMAvatar/RMAvatar), where we replace the original HexPlane (Tri-plane) feature extraction module with a pure **MLP + Positional Encoding** approach for canonical space feature representation.
 
+The research was a part of our Final Year Project of our undergraduate.
+
 ## Key Modification
 
 ### Original Approach: HexPlane (Tri-plane)
